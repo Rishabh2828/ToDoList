@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "978926265031",
+    "project_id": "to-do-list-a6934",
+    "storage_bucket": "to-do-list-a6934.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978926265031:android:e1fc62b99858525c0094e2",
+        "android_client_info": {
+          "package_name": "com.shurish.todolist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978926265031-u7rjhj9h5u13uvrkbgfs3l6uj5plrsq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkmyt5Dc4XtQuSRl_MMN3_vZWL-4y59Qc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978926265031-u7rjhj9h5u13uvrkbgfs3l6uj5plrsq1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
